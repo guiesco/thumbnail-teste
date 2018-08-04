@@ -1,0 +1,114 @@
+body{
+    font-family: "Times New Roman";
+}
+
+#navbar-brand-logo{
+    height: 60px;
+    margin-top: -15px;
+}
+
+.navbar-custom {
+    min-height: 75px;
+    margin-bottom: 0px;
+}
+
+#navbar{
+    margin-top:1%;
+}
+
+#header{
+    margin-top: 0;
+}
+
+#img{
+    padding: 15%;
+    width: auto;
+    background-image: url("../img/header.png");
+    background-size: cover;
+}
+
+.img-header{
+    width: 100%;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: darkblue;
+}
+
+#red-section-image{
+    width: 10%;
+    border: 1px solid red;
+}
+
+#first-section{
+    padding: 5%;
+    background-color: gainsboro;
+}
+
+#red-section-1{
+    width: 25%;
+    border: 1px solid red;
+    list-style-type: none;
+    margin-left: 38%;
+    align-content: center;
+
+}
+
+#red-section-2{
+    width: 15%;
+    border: 1px solid red;
+    list-style-type: none;
+    margin-left: 41%;
+    align-content: center;
+
+}
+
+.gray-section{
+    width: 100%;
+    border: 1px solid gray;
+    list-style-type: none;
+    margin-top: 10%;
+}
+
+#second-section{
+    padding: 5%;
+}
+
+#last-section{
+    padding: 2%;
+    background-color: #1d458d;
+    color: white;
+}
+
+.red-font{
+    color: red;
+}
+
+.row{
+    margin-top: 30px;
+}
+
+.quote{
+    text-align: center;
+    font-style: italic;
+
+}
+
+.col-md-offset-0{
+    margin-left: 3%;
+}
+
+.flexslider{
+    margin: 5%;
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+
+
